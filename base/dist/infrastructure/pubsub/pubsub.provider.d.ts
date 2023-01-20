@@ -1,0 +1,5 @@
+export declare enum ProviderTokens {
+    'PUBSUB_CONFIG' = "PUBSUB_CONFIG",
+    'PUBSUB_SERVICE' = "PUBSUB_SERVICE",
+    'PUBSUB_NAMING_STRATEGY' = "PUBSUB_NAMING_STRATEGY"
+}

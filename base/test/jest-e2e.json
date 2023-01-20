@@ -1,0 +1,13 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "rootDir": ".",
+  "testEnvironment": "node",
+  "testRegex": ".e2e-spec.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "globalSetup": "./utils/global-setup.ts",
+  "setupFiles": ["./utils/setup-mock.ts"],
+  "globalTeardown": "./utils/global-teardown.ts",
+  "preset": "ts-jest"
+}

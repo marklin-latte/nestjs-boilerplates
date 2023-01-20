@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/commander/index.ts"],"names":[],"mappings":";;AAAA,mDAAgD;AAChD,+CAA6C;AAC7C,6DAAqD;AACrD,yDAAmD;AAEnD,KAAK,UAAU,SAAS;IACtB,MAAM,+BAAc,CAAC,GAAG,CAAC,gCAAa,EAAE;QACtC,MAAM,EAAE,4BAAa,CAAC,YAAY,CAAC,IAAA,wBAAa,GAAE,CAAC;KACpD,CAAC,CAAC;AACL,CAAC;AAED,SAAS,EAAE,CAAC"}
